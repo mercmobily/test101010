@@ -1,2 +1,3 @@
 The command-line author replaces the saved wording for the strict recovery test.
+Session E keeps the local meaning while accepting the latest saved wording.
 Session D keeps this local interpretation of the authority race.
