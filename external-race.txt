@@ -1,2 +1,2 @@
-The command-line author keeps a different interpretation of the authority race.
+The command-line author replaces the saved wording for the strict recovery test.
 Session D keeps this local interpretation of the authority race.
