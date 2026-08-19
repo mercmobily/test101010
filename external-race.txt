@@ -1,1 +1,2 @@
 The command-line author keeps a different interpretation of the authority race.
+Session D keeps this local interpretation of the authority race.
