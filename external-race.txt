@@ -1,0 +1,1 @@
+External update pushed immediately before a stale session attempted to save.
